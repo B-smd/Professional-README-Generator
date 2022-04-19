@@ -30,7 +30,7 @@ inquirer.prompt([
     },
     {
         type: 'input',
-        message: 'Provide instructions and examples for use.',
+        message: 'How to use the app?',
         name: 'usage',
     },
     {
