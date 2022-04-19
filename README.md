@@ -23,7 +23,7 @@ Create `.gitignore` and include `node_modules` and `.DS_Store/`, then Install `n
 Open terminal, then type `node index.js` and entered, then answer the prompts that follow, finally on success, a README.me will be generated.
 
 ## Demo
-https://drive.google.com/file/d/1q0EtvEnV9kI_BqitX3t8ZqVJOVRFeu4Q/view
+https://drive.google.com/file/d/10LlEB1JoqkRcsY6GXXgwbdP-UrTugdaR/view
 
 ## Credits
 - https://github.com/Simon-Xu-Lan
